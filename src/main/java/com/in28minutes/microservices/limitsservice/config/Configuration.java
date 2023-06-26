@@ -18,7 +18,7 @@ public class Configuration {
         return maximum;
     }
 
-    public void setMinimum(int minimum) { 
+    public void setMinimum(int minimum) {
         this.minimum = minimum;
     }
 
